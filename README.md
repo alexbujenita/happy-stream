@@ -11,7 +11,7 @@ to populate the CSV. Then to run it
 ```
 node index.js -r
 ```
-If no one has its birthday today try and populate the CSV again.
+If no one has its birthday today try to populate the CSV again.
 
 ### Tests to implement
 Using an existing CSV file or a populated in memory DB
