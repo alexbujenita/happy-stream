@@ -7,7 +7,7 @@ const entries = [];
 for (let i = 0; i < 2500; i++) {
   const lastName = faker.name.lastName();
   const firstName = faker.name.firstName();
-  const date = faker.date.between("1990-01-01", "1990-12-31");
+  const date = faker.date.between("1992-01-01", "1992-12-31");
   entries.push({
     last_name: lastName,
     first_name: firstName,
